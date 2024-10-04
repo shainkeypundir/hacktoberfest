@@ -1,5 +1,9 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
+## I am changing the skills branch
+
+## I am learing about the git and github
+
 ** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
